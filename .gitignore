@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+13_env
+db.sqlite3
+/static
+.DS_STORE
+desktop.ini
